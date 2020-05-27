@@ -1,0 +1,110 @@
+[
+  [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  [
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "Ин. яз.",
+      "room": "Б-402",
+      "teacher": "",
+      "week": null,
+      "type": ""
+    }
+  ],
+  [
+    null,
+    {
+      "name": "Дискр. мат. модели",
+      "room": "А-317",
+      "teacher": "",
+      "week": null,
+      "type": ""
+    },
+    {
+      "name": "Непр. мат. модели",
+      "room": "А-316",
+      "teacher": "",
+      "week": null,
+      "type": ""
+    },
+    {
+      "name": "12-14 н. Непр. мат. модели",
+      "room": "А-316",
+      "teacher": "",
+      "week": null,
+      "type": ""
+    },
+    {
+      "name": "12-14 н. Непр. мат. модели",
+      "room": "А-316",
+      "teacher": "",
+      "week": null,
+      "type": ""
+    },
+    null
+  ],
+  [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  [
+    {
+      "name": "План. эксп.",
+      "type": "",
+      "teacher": "",
+      "room": "Б-209",
+      "week": 1
+    },
+    {
+      "name": "План. эксп.",
+      "type": "",
+      "teacher": "",
+      "room": "Б-209",
+      "week": 1
+    },
+    {
+      "name": "СТПО",
+      "room": "Б-209",
+      "teacher": "",
+      "week": null,
+      "type": ""
+    },
+    {
+      "name": "Дискр. мат. модели",
+      "room": "А-211",
+      "teacher": "",
+      "week": null,
+      "type": ""
+    },
+    {
+      "name": "Дискр. мат. модели",
+      "type": "",
+      "teacher": "",
+      "room": "А-211",
+      "week": 2
+    },
+    null
+  ],
+  [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+]
