@@ -868,7 +868,7 @@
 				{
 					$str = explode("../6. JSON/", $filelist[$weg]);
 				
-					$str2 = preg_replace("/[^0-9]/", '', $str[$weg]);
+					$str2 = preg_replace("/[^0-9]/", '', $str[1])
 				
 					$str3 = preg_replace("/[^0-9]/", '', $Group);
 				
